@@ -21,7 +21,6 @@
         <a <link href="https://github.com/kartemre" rel="stylesheet" />@kartemre</a><br>
         <a <link href="https://github.com/Sunnrise" rel="stylesheet" />@kartemre</a><br>
 
-    </div>
 </body>
 
 </html>
